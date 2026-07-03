@@ -70,7 +70,7 @@ git clone https://github.com/Sharvariw-27/CSV-JSON-Converter.git
 ### 2. Navigate to the project folder
 
 ```bash
-cd CSV-JSON-Converter
+cd Converter
 ```
 
 ### 3. Run the application
